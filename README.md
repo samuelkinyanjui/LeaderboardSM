@@ -1,4 +1,4 @@
-# To do List
+# Leaderboard: setup project
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -26,32 +26,19 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 TO DO list<a name="about-project"></a>
+# 📖 Leaderboard: setup project<a name="about-project"></a>
 
-**To do list ** is developed in HTML, CSS, JavaScript, and Es 6 modules,webback
+**Leaderboard: setup project** is developed in HTML, CSS, JavaScript, and Es 6 modules,webback
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>
-      HTML <br>
-      CSS
-      </a>
-    </li>
-  </ul>
-</details>
-
-
 ##
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Brake down the script into four modules**
+- **Leaderboard: setup project**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,7 +47,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+To get a clone copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -69,7 +56,7 @@ In order to run this project, you need:
 ### Setup
 
 Clone this repository to your desired folder
-https://github.com/samuelkinyanjui/todolistsm)
+https://github.com/samuelkinyanjui/LeaderboardSM
 
 
 ### Install
@@ -77,7 +64,7 @@ https://github.com/samuelkinyanjui/todolistsm)
 Install this project with: 
 
 ```sh
-  cd Capstone-Project_sam
+  cd LeaderboardSM
  npm install
 ```
 
@@ -85,7 +72,7 @@ Install this project with:
 
 To run the project, execute the following command:
 
-> npm install
+> npm run build
 
 ### Run tests
 
@@ -94,7 +81,7 @@ To run the project, execute the following command:
 
 ### Deployment
 
-Project can be deployed by using the gh-pages and other web platforms.
+Project can be deployed by using the windows ,linux servers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +92,7 @@ Project can be deployed by using the gh-pages and other web platforms.
 
 👤 **Samuel kinyanjui**
 
-- GitHub: [@githubhandle](https://github.com/samuelkinyanjui/todolistsm))
+- GitHub: [@githubhandle](https://github.com/samuelkinyanjui)
 
 
 
@@ -116,8 +103,9 @@ Project can be deployed by using the gh-pages and other web platforms.
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **More ES6 features implemetation**
-- [ ] **Arrow functins**
-- [ ] **Desktop Version**
+- [ ] **API implemetation**
+- [ ] **Data storage and retrival**
+   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +115,7 @@ Project can be deployed by using the gh-pages and other web platforms.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/samuelkinyanjui/todolistsm/issues).
+Feel free to check the [issues page](https://github.com/samuelkinyanjui/LeaderboardSM/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
