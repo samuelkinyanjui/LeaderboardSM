@@ -10,7 +10,7 @@ const getData = () => {
       document.querySelector(
         'ul',
       ).innerHTML += ` <li><span>${user.user} </span>: <span>${user.score}</span></li> `;
-    })
+    });
   });
 };
 
