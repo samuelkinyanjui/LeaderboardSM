@@ -10,12 +10,6 @@ export const add = async (player, scores) => {
   }
 };
 
-export const clear = () => {
- // const user = document.querySelector('.users');
- // const score = document.querySelector('.scores');
- // const submit = document.querySelector('.submit');
-};
-
 export const submitting = () => {
   const user = document.querySelector('.users');
   const score = document.querySelector('.scores');
