@@ -129,6 +129,18 @@ If you like this project, give a ⭐️
 
 
 <!-- ACKNOWLEDGEMENTS -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+
+I would like to thank My coding partiners at  microverse .
+
+The Leaderboard-API-service developers for such fantastic API tool.
+
+My code reviewrs for picking out the issues that need fixing
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
